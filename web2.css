@@ -1,0 +1,115 @@
+.box{
+    border: 1px solid black;
+    width: 100%;
+
+}
+
+.boxbar{
+    border: 1px solid black;
+    padding:6px; 
+    background: black;
+
+}
+
+.boxbar address a{
+    float: right;
+    text-decoration: none;
+    color: white;
+}
+
+.boxbar i{
+    color:white;
+    width:30px;
+}
+.list{
+    border-bottom-width: 900px;
+    border-bottom: 1px solid darkgray;
+    padding: 6px;
+    float: right;
+
+}
+
+.list ul li{
+    float: left;
+    text-align: center;
+    width: 70px;
+    list-style-type: none;
+}
+
+.list ul li a{
+    text-decoration: none;
+    color:white;
+
+}
+
+.list ul li a:hover{
+    border-bottom: 4px solid brown;
+    padding: 2px;
+}
+
+body{
+    background:url(wow.jpg)no-repeat;
+    background-size: cover;
+}
+
+.h2{
+    float: left;
+}
+
+.juvenile{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 18px;
+  width: 20%;
+  
+  
+}
+}
+
+
+}
+.angels{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+ 
+}
+
+.goldenagers{
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+  font-size: 18px;
+  width: 20%;
+ 
+  
+}
+  
+.box1{
+    color:white;
+}
+
+.box2{
+    color: rgb(7, 6, 6);
+    background-color: rgba(252, 19, 252, 0.822);
+    border-radius: 10%;
+    padding: 1px;
+    width: 190px;
+}
+
+.box3{
+    color: white;
+}
+
+.okay{
+    background-color: lavenderblush;
+    padding-right:2px;
+    width:20%
+}
+
+.writter{
+    color: lightcoral;
+}
